@@ -1,3 +1,3 @@
 # graphQLUAS
 
-# Simple GraphQL Test
+# Simple GraphQL CRUD
